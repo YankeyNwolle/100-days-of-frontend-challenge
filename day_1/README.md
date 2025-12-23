@@ -47,10 +47,7 @@ Ajoute une ou plusieurs de ces fonctionnalités pour progresser :
 - Accessibilité : focus visible, aria-labels, tailles de cible minimum (44–48px).
 - Micro-interactions : hover, active, ripple effect mobile simulé.
 
-Si tu veux, je peux :
-- fournir le code d'un switch mode sombre minimal,
-- ajouter le HTML/CSS pour les éléments de menu avec icônes,
-- ou créer un script.js de base pour les interactions (toggle menu, badges, sauvegarde).
+
 
 ## Tests & QA
 - Vérifier sur différents viewport (iPhone/Android).
@@ -61,4 +58,3 @@ Si tu veux, je peux :
 - Héberger sur GitHub Pages : pousser le repo et activer Pages sur la branche principale.
 - Ou utiliser Netlify / Vercel pour déploiement instantané.
 
-Bonne continuation — dis-moi quelle fonctionnalité additionnelle tu veux que je te génère en priorité (ex : mode sombre, badges, ou formulaire d'édition). 
