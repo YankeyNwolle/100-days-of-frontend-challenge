@@ -68,7 +68,6 @@
   gap: 16px;
 }
 
-/* chaque item : image + texte côte à côte */
 .menu-item {
   display: flex;
   align-items: center;
@@ -79,6 +78,8 @@
   width: 25px;
   height: 25px;
   flex-shrink: 0;
+  background-color: aqua;
+  background-size: 38px 38px;
 }
 
 .menu-item p {
